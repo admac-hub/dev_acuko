@@ -10,3 +10,7 @@ I enjoy working with SQL , Linux and AS400 IBM mainfraime server.
 
 ## Find me around the web 🌎: 
 - Networking on <a href="https://www.linkedin.com/in/ardit-cuko-764133180/">Linkedin</a> 
+
+
+## Snake eating my countribution : 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
