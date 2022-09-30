@@ -12,5 +12,5 @@ I enjoy working with SQL , Linux and AS400 IBM mainfraime server.
 - Networking on <a href="https://www.linkedin.com/in/ardit-cuko-764133180/">Linkedin</a> 
 
 
-## Snake eating my countribution : 
+## Snake eating my countribution :snake: 
 ![snake gif](https://github.com/admac-hub/admac-hub/blob/output/github-contribution-grid-snake.gif)
