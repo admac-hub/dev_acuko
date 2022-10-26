@@ -5,7 +5,7 @@
 ## About me :writing_hand:
 I'm a junior programmer who is passionate about codding and developing programms that solve real world issues,
 creating programms to make life easier. 
-I enjoy working with SQL , Linux and AS400 IBM mainfraime server. 
+I enjoy working with Poershell,  SQL , Linux and AS400 IBM mainfraime server , Yes i do know RPG. 
 
 
 ## Find me around the web 🌎: 
