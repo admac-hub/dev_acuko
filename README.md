@@ -8,6 +8,10 @@ creating programms to make life easier.
 I enjoy working with Powershell,  SQL , Linux and AS400 IBM mainfraime server , Yes i do know RPG. 
 
 
+try:
+import emoji
+print(sorted([“🥚”,”🐔”]));
+
 ## Find me around the web 🌎: 
 - Networking on <a href="https://www.linkedin.com/in/ardit-cuko-764133180/">Linkedin</a> 
 
