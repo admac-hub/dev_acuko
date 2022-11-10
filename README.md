@@ -9,9 +9,7 @@ I enjoy working with Powershell,  SQL , Linux and AS400 IBM mainfraime server , 
 
 
 try:
-
 import emoji
-
 print(sorted([“🥚”,”🐔”]));
 
 ## Find me around the web 🌎: 
